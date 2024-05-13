@@ -1,6 +1,6 @@
 # Home-Automation
 
-# Control Project 
+# Control Project:
 
 This README file outlines an Arduino-based home automation system offering the following functionalities:
 
