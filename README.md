@@ -18,7 +18,7 @@ This README file outlines an Arduino-based home automation system offering the f
 - Incorrect password triggers a buzzer and displays "Wrong password" on the LCD, along with a red LED indication.
  You are granted three attempts to enter the correct password.
 
-- Correct password turns on a green LED (implementation not included) and displays "Welcome Home" on the LCD.
+- Correct password turns on a green LED and displays "Welcome Home" on the LCD.
 
 
 **3. Temperature Control with Fan and Alarm:**
@@ -32,7 +32,7 @@ This README file outlines an Arduino-based home automation system offering the f
 
 - The LCD displays the current temperature in all scenarios.
 
-
+- LDR controls Light of led, LCD displays intensity of light
 # Hardware Required:
 
 - Arduino Uno
@@ -60,6 +60,7 @@ This README file outlines an Arduino-based home automation system offering the f
 
 - Resistors (values depend on specific components)
 
+- LDR
 # Software Required:
 
 -Arduino IDE
