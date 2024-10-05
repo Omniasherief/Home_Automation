@@ -3,7 +3,7 @@
 
 # 🌟 Home Automation System
 
-Welcome to the **Home Automation Control Project**! This Arduino-based project brings a smart home experience with automatic doors, secure entry, temperature control, and more. Let’s dive into the features that will make your home a bit smarter! 
+Welcome to the **Home Automation Control Project**! This project brings a smart home experience with automatic doors, secure entry, temperature control, and more. Let’s dive into the features that will make your home a bit smarter! 
 
 ---
 
